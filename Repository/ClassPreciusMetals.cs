@@ -76,7 +76,10 @@ namespace Repository
 
         public double CalculateUsdPriceFromDkkPrice(double dkkPrice)
         {
-           // return dkkPrice;
+
+
+
+            return dkkPrice;
         }
     }
 }

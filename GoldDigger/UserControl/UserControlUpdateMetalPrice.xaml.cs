@@ -31,13 +31,12 @@ namespace GoldDigger
 
         private void UCUpdateMetalPriceSaveButton_Click(object sender, RoutedEventArgs e)
         {
-
+            ((Grid)Parent).Children.Remove(this);
         }
 
         private void UCUpdateMetalPriceCancelButton_Click(object sender, RoutedEventArgs e)
         {
-            MainMetalGrid.Children.Clear();
-            MainMetalGrid.Children.Remove(this);
+            ((Grid)Parent).Children.Remove(this);
         }
     }
 }
