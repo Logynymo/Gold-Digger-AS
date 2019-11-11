@@ -1,0 +1,16 @@
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\bin\Debug\IO.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\bin\Debug\IO.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\obj\Debug\IO.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\obj\Debug\IO.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\bin\Debug\Repository.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\bin\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\IO\obj\Debug\IO.csproj.CopyComplete
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\bin\Debug\IO.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\bin\Debug\IO.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\bin\Debug\Repository.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\bin\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\obj\Debug\IO.csprojAssemblyReference.cache
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\obj\Debug\IO.csproj.CopyComplete
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\obj\Debug\IO.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\IO\obj\Debug\IO.pdb

@@ -1,0 +1,20 @@
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\bin\Debug\BIZ.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\bin\Debug\BIZ.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.csprojAssemblyReference.cache
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\bin\Debug\IO.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\bin\Debug\Repository.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\bin\Debug\IO.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\bin\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\bin\Debug\BIZ.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\bin\Debug\BIZ.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\bin\Debug\IO.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\bin\Debug\Repository.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\bin\Debug\IO.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\bin\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\obj\Debug\BIZ.csprojAssemblyReference.cache
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\obj\Debug\BIZ.csproj.CopyComplete
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\obj\Debug\BIZ.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\BIZ\obj\Debug\BIZ.pdb

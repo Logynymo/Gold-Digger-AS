@@ -1,0 +1,10 @@
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\Repository\bin\Debug\Repository.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\Repository\bin\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\Repository\obj\Debug\Repository.dll
+C:\Users\math274k\Desktop\Eksamen - Gold Digger\Eksamen\GoldDigger\Repository\obj\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\bin\Debug\Repository.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\bin\Debug\Repository.pdb
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\obj\Debug\Repository.dll
+C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\obj\Debug\Repository.pdb
