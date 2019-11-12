@@ -10,6 +10,5 @@ C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\obj\Debug\Repository.d
 C:\Users\math274k\Desktop\Exam-GDAS\GoldDigger\Repository\obj\Debug\Repository.pdb
 C:\Users\math274k\Desktop\Exam-GDAS-Fixed\Repository\bin\Debug\Repository.dll
 C:\Users\math274k\Desktop\Exam-GDAS-Fixed\Repository\bin\Debug\Repository.pdb
-C:\Users\math274k\Desktop\Exam-GDAS-Fixed\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
 C:\Users\math274k\Desktop\Exam-GDAS-Fixed\Repository\obj\Debug\Repository.dll
 C:\Users\math274k\Desktop\Exam-GDAS-Fixed\Repository\obj\Debug\Repository.pdb

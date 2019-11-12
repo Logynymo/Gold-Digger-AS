@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Repository;
 using BIZ;
 
 namespace GoldDigger
@@ -21,14 +22,40 @@ namespace GoldDigger
     /// </summary>
     public partial class MainWindow : Window
     {
-        ClassBIZ CB;
+        ClassBiz CB;
         UserControlUpdateMetalPrice userControlUpdateMetalPrice;
+        UserControlAddCreateUser userControlAddCreateUser;
         public MainWindow()
         {
             InitializeComponent();
-            CB = new ClassBIZ();
+            CB = new ClassBiz();
             userControlUpdateMetalPrice = new UserControlUpdateMetalPrice(CB);
+            userControlAddCreateUser = new UserControlAddCreateUser(CB, SubGridCustomer, SubGridMetalPrice);
+            MainWindowGrid.DataContext = CB;
+        }
+
+        private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ListView Lva = (ListView)sender;
+            if (Lva.SelectedItem != null)
+            {
+                CB.currentCustomer = null;
+                CB.currentCustomer = (Customer)Lva.SelectedItem;
+            }
+
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            SubGridCustomer.Children.Add(userControlAddCreateUser);
+            SubGridMetalPrice.IsEnabled = false;
+        }
+
+        private void ListView_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
             SubGridMetalPrice.Children.Add(userControlUpdateMetalPrice);
+            SubGridCustomer.IsEnabled = false; 
         }
     }
 }

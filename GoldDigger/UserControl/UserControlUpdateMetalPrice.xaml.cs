@@ -22,10 +22,11 @@ namespace GoldDigger
     /// </summary>
     public partial class UserControlUpdateMetalPrice : UserControl
     {
-        public UserControlUpdateMetalPrice(ClassBIZ CB)
+        Customer CC;
+        public UserControlUpdateMetalPrice(ClassBiz CB)
         {
             InitializeComponent();
-            ClassCustomer CC = new ClassCustomer();
+            CC = new Customer();
             MainMetalGrid.DataContext = CB;
         }
 
