@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Repository
 {
+    /// <summary>
+    /// Mathias
+    /// </summary>
     public class ClassPreciusMetals : ClassNotify
     {
 
@@ -74,12 +77,12 @@ namespace Repository
             }
         }
 
-        public double CalculateUsdPriceFromDkkPrice(double dkkPrice)
+        public double CalculateUsdPriceFromDkkPrice(double dkkPrice, double usdPrice)
         {
+            
 
 
-
-            return dkkPrice;
+            return DkkPrice;
         }
     }
 }

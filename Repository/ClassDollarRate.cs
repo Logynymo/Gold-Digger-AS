@@ -2,6 +2,9 @@
 
 namespace Repository
 {
+    /// <summary>
+    /// Mathias
+    /// </summary>
     public class ClassDollarRate : ClassPreciusMetals
     {
         private int _Id;

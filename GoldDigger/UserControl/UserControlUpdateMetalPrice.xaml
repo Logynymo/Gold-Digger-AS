@@ -52,13 +52,101 @@
                Margin="5,5,5,5"
                VerticalAlignment="Center" />
         
-        <Label Content="Silver"
+        <Label Content="Rhodium"
                Grid.Row="2"
                Grid.Column="0"
                HorizontalAlignment="Center"
                Margin="5,5,5,5"
                VerticalAlignment="Center" />
         
+        <Label
+            Content="Palladium"
+            Grid.Row="3"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Lead"
+            Grid.Row="4"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Silver"
+            Grid.Row="5"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Copper"
+            Grid.Row="6"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Nickel"
+            Grid.Row="7"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Iron"
+            Grid.Row="8"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Zinc"
+            Grid.Row="9"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Chromium"
+            Grid.Row="10"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Tin"
+            Grid.Row="11"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Titanium"
+            Grid.Row="12"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
+        <Label
+            Content="Aluminum"
+            Grid.Row="13"
+            Grid.Column="0"
+            HorizontalAlignment="Center"
+            Margin="5,5,5,5"
+            VerticalAlignment="Center" />
+
         <TextBox x:Name="TextBoxPlatDkkPrice"
                  TextWrapping="Wrap"
                  Text="Binding Here"
@@ -77,7 +165,7 @@
                  Grid.Row="1"
                  Margin="5,5,5,5" />
 
-        <TextBox x:Name="TextBoxSilverDkkPrice"
+        <TextBox x:Name="TextBoxRhodiumDkkPrice"
                  TextWrapping="Wrap"
                  Text="Binding Here"
                  VerticalAlignment="Center"
@@ -85,6 +173,115 @@
                  Grid.Column="1"
                  Grid.Row="2"
                  Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxPalladiumDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="3"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxLeadDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="4"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxSilverDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="5"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxCopperDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="6"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxNickelDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="7"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxIronDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="8"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxZincDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="9"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxChromiumDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="10"
+            Margin="5,5,5,5" />
+        <TextBox
+            x:Name="TextBoxTinDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="11"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxTitaniumDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="12"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxAluminumDkkPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="1"
+            Grid.Row="13"
+            Margin="5,5,5,5" />
 
         <TextBox x:Name="TextBoxPlatUsdPrice"
                  TextWrapping="Wrap"
@@ -104,7 +301,7 @@
                  Grid.Row="1"
                  Margin="5,5,5,5" />
 
-        <TextBox x:Name="TextBoxSilverUsdPrice"
+        <TextBox x:Name="TextBoxRhodiumUsdPrice"
                  TextWrapping="Wrap"
                  Text="Binding Here"
                  VerticalAlignment="Center"
@@ -112,6 +309,117 @@
                  Grid.Column="2"
                  Grid.Row="2"
                  Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxPalladiumUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="3"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxLeadUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="4"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxSilverUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="5"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxCopperUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="6"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxNickelUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="7"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxIronUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="8"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxZincUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="9"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxChromiumUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="10"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxTinUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="11"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxTitaniumUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="12"
+            Margin="5,5,5,5" />
+
+        <TextBox
+            x:Name="TextBoxAluminumUsdPrice"
+            TextWrapping="Wrap"
+            Text="Binding Here"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            Grid.Column="2"
+            Grid.Row="13"
+            Margin="5,5,5,5" />
+
         <Button x:Name="UCUpdateMetalPriceSaveButton"
             Content="Gem"
             Grid.Column="1"
